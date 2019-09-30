@@ -1,0 +1,10 @@
+G:\workspace\shop_gwhn_mng\src\net\shopxx\entity\Order.java
+G:\eclipse\workspace\cloud.mk_tica\src\net\shopxx\product\dao\ProductBaseDao.java
+G:\eclipse\workspace\cloud.mk_tica\src\net\shopxx\cost\dao\OrderCostApplyDao.java
+G:\eclipse\workspace\cloud.mk_tica\src\net\shopxx\manage\entity\MatchingPriceItem.java
+G:\eclipse\workspace\cloud.mk_tica\src\net\shopxx\manage\service\impl\MatchingPriceServiceImpl.java
+G:\eclipse\workspace\cloud.mk_tica\WebRoot\WEB-INF\template\manage\matching_price\add.ftl
+G:\eclipse\workspace\cloud.mk_tica\WebRoot\WEB-INF\template\manage\matching_price\edit.ftl
+G:\eclipse\workspace\cloud.mk_tica\WebRoot\WEB-INF\template\manage\mechatronics\select_mechatronics.ftl
+G:\eclipse\workspace\cloud.mk_tica\WebRoot\WEB-INF\template\manage\purchasing\add.ftl
+G:\eclipse\workspace\cloud.mk_tica\WebRoot\WEB-INF\template\manage\purchasing\view.ftl
